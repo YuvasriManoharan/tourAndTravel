@@ -38,7 +38,7 @@ nav ul li a:hover {
 
 /* Header Section */
 header {
-    background: url('/images/tour.jpg') no-repeat center /cover;
+    background: url('tour.jpg') no-repeat center /cover;
     color: white;
     text-align: center;
     padding: 100px 0;
